@@ -1,0 +1,120 @@
+a++
+ ┣ .git
+ ┃ ┣ branches
+ ┃ ┣ hooks
+ ┃ ┃ ┣ applypatch-msg.sample
+ ┃ ┃ ┣ commit-msg.sample
+ ┃ ┃ ┣ fsmonitor-watchman.sample
+ ┃ ┃ ┣ post-update.sample
+ ┃ ┃ ┣ pre-applypatch.sample
+ ┃ ┃ ┣ pre-commit.sample
+ ┃ ┃ ┣ pre-merge-commit.sample
+ ┃ ┃ ┣ pre-push.sample
+ ┃ ┃ ┣ pre-rebase.sample
+ ┃ ┃ ┣ pre-receive.sample
+ ┃ ┃ ┣ prepare-commit-msg.sample
+ ┃ ┃ ┣ push-to-checkout.sample
+ ┃ ┃ ┗ update.sample
+ ┃ ┣ info
+ ┃ ┃ ┗ exclude
+ ┃ ┣ logs
+ ┃ ┃ ┣ refs
+ ┃ ┃ ┃ ┣ heads
+ ┃ ┃ ┃ ┃ ┗ master
+ ┃ ┃ ┃ ┗ remotes
+ ┃ ┃ ┃ ┃ ┗ A++
+ ┃ ┃ ┃ ┃ ┃ ┣ main
+ ┃ ┃ ┃ ┃ ┃ ┗ master
+ ┃ ┃ ┗ HEAD
+ ┃ ┣ objects
+ ┃ ┃ ┣ 02
+ ┃ ┃ ┃ ┗ 7e2c074fff8cdc91b55a698086d047440dd334
+ ┃ ┃ ┣ 16
+ ┃ ┃ ┃ ┗ 18f725148ce849ab728b604fa0d4edf689d77c
+ ┃ ┃ ┣ 18
+ ┃ ┃ ┃ ┗ 3036449832c18a1a5f60d4f45790ee831c9f6e
+ ┃ ┃ ┣ 19
+ ┃ ┃ ┃ ┗ 87fa33796413b29a079d4f460942bc320d72e5
+ ┃ ┃ ┣ 1a
+ ┃ ┃ ┃ ┗ 80370f079dc1a57a0b85c1410d702ec13fb82a
+ ┃ ┃ ┣ 23
+ ┃ ┃ ┃ ┣ 0cf78de2a46ad7e4263dd9b4b1941f7499f396
+ ┃ ┃ ┃ ┗ aa26c9a0314a6b4ff33e614545bed5855c8915
+ ┃ ┃ ┣ 26
+ ┃ ┃ ┃ ┗ 70e367e70f6ba822d2e30f909c30e6eca32cd8
+ ┃ ┃ ┣ 28
+ ┃ ┃ ┃ ┗ 8350bf5d7679ca48f5a5ba4d366cb0fe9b55b0
+ ┃ ┃ ┣ 34
+ ┃ ┃ ┃ ┗ 814a6a7bd25998ad5d2145642b46424e0400c4
+ ┃ ┃ ┣ 4b
+ ┃ ┃ ┃ ┗ 825dc642cb6eb9a060e54bf8d69288fbee4904
+ ┃ ┃ ┣ 51
+ ┃ ┃ ┃ ┗ 75306a7cd91383dcb7937c0eb862533808acb8
+ ┃ ┃ ┣ 5a
+ ┃ ┃ ┃ ┗ 691fa97fe1befc722a52ae7d25bb28638fe11d
+ ┃ ┃ ┣ 5f
+ ┃ ┃ ┃ ┗ d4db15e7669110f2f6ba119d2c5cddee9d4fa5
+ ┃ ┃ ┣ 6b
+ ┃ ┃ ┃ ┗ ff4b3487a4d5b932e76bbd914e35a3d696e4b0
+ ┃ ┃ ┣ 73
+ ┃ ┃ ┃ ┗ 0cf4ea3837bd2fcbca9b336b463b027d4940c2
+ ┃ ┃ ┣ 75
+ ┃ ┃ ┃ ┗ 6650abb8ebd8f208b8cd8f32a105ef0e27ae0b
+ ┃ ┃ ┣ 8c
+ ┃ ┃ ┃ ┗ e1fcd063843db9a568de006702e01987c4e283
+ ┃ ┃ ┣ 95
+ ┃ ┃ ┃ ┗ 7f4a416205710461f711d07c0db68338e7364f
+ ┃ ┃ ┣ a2
+ ┃ ┃ ┃ ┣ 8c2ba094a3ddacd3b585970f373009c4cdb698
+ ┃ ┃ ┃ ┗ b3e08147929338571498ebffb40726b11024d8
+ ┃ ┃ ┣ a3
+ ┃ ┃ ┃ ┗ 210d1ceed231c1ea8aeac1ba44047e191a8661
+ ┃ ┃ ┣ a7
+ ┃ ┃ ┃ ┗ 7698a53d021739b4f8e87400430071fe09473d
+ ┃ ┃ ┣ ac
+ ┃ ┃ ┃ ┗ d770bacf8e2c8b1f160103c145b7d36baf80d5
+ ┃ ┃ ┣ c6
+ ┃ ┃ ┃ ┗ a71ef90427c9c786a7c1551a3f90ca9598bea1
+ ┃ ┃ ┣ c7
+ ┃ ┃ ┃ ┗ 94bba552e71cca905b733b7d0192d42fcfdfdd
+ ┃ ┃ ┣ db
+ ┃ ┃ ┃ ┗ f26cad5eb7c419ea54de9ce10c1c095cd4a8d3
+ ┃ ┃ ┣ e4
+ ┃ ┃ ┃ ┗ 5514ff5fe9e79d8f9225751b9d659ace852558
+ ┃ ┃ ┣ e5
+ ┃ ┃ ┃ ┗ bd1e3661e8b5972fbb70c143f296ef4bcc0689
+ ┃ ┃ ┣ e9
+ ┃ ┃ ┃ ┗ dd7b4f304304d69c07c667b43c36cee3466f2f
+ ┃ ┃ ┣ ea
+ ┃ ┃ ┃ ┗ d83ab4ac28a56b4cc15f875055bb8a08573bac
+ ┃ ┃ ┣ f3
+ ┃ ┃ ┃ ┗ b176967b980f1b14fede81ce5095e8828741a6
+ ┃ ┃ ┣ f8
+ ┃ ┃ ┃ ┗ d61b69c7078af2474b276ba5a3967ad4bf33ec
+ ┃ ┃ ┣ fc
+ ┃ ┃ ┃ ┗ 54508e5a4055a2d5f6f3d637d902a2670ed65b
+ ┃ ┃ ┣ fd
+ ┃ ┃ ┃ ┣ 110e47b061d4da9d73c88601ffc74d811efaa5
+ ┃ ┃ ┃ ┗ 9b356cd4afad98ed55b0bc5b9ce1d180a63c9a
+ ┃ ┃ ┣ info
+ ┃ ┃ ┗ pack
+ ┃ ┣ refs
+ ┃ ┃ ┣ heads
+ ┃ ┃ ┃ ┗ master
+ ┃ ┃ ┣ remotes
+ ┃ ┃ ┃ ┗ A++
+ ┃ ┃ ┃ ┃ ┣ main
+ ┃ ┃ ┃ ┃ ┗ master
+ ┃ ┃ ┗ tags
+ ┃ ┣ COMMIT_EDITMSG
+ ┃ ┣ FETCH_HEAD
+ ┃ ┣ HEAD
+ ┃ ┣ ORIG_HEAD
+ ┃ ┣ config
+ ┃ ┣ description
+ ┃ ┗ index
+ ┣ .jupyter
+ ┃ ┗ Notebook1.ipynb
+ ┣ LICENSE
+ ┣ basic.py
+ ┗ shell.py
