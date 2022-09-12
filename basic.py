@@ -1,5 +1,5 @@
 """
-mport Basic.error
+import Basic.error
 import Basic.lexer
 import Basic.token
 """
