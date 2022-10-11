@@ -29,12 +29,4 @@ int main(int arguments_count, char *arguments[]) {
             return 1;
         }
     }
-
-    if((sizeof(arguments) == 2 || sizeof(arguments == 3)) && arguments[2] == "console") {
-        if(sizeof(arguments) == 3) {
-            return console(arguments[3]);
-        }
-
-        
-    }
 };
